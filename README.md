@@ -2,7 +2,6 @@
 -  I’m interested in everything computer related   
 -  I’m currently learning C#
 -  How to reach me;
-- Email: maryamkhan0294@gmail.com
 -  Pronouns: She/Her
 - ⚡ Fun fact: I've had this account for a while but I still need to learn how to properly use Github
 
